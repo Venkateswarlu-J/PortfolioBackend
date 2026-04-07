@@ -1,0 +1,12 @@
+com\jvportfolio\service\FeedbackService.class
+com\jvportfolio\controller\VisitorController.class
+com\jvportfolio\repository\VisitorCountRepository.class
+com\jvportfolio\controller\FeedbackController.class
+com\jvportfolio\controller\WebConfig.class
+com\jvportfolio\repository\FeedbackRepository.class
+com\jvportfolio\controller\GlobalExceptionHandler.class
+com\jvportfolio\service\VisitorService.class
+com\jvportfolio\JvPortfolioApplication.class
+com\jvportfolio\model\Feedback.class
+com\jvportfolio\model\VisitorCount.class
+com\jvportfolio\controller\FeedbackController$FeedbackRequest.class
